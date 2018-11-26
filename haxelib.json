@@ -1,0 +1,14 @@
+{
+  "name": "hxnodejs-maxmind",
+  "url": "https://github.com/proletariatgames/hxnodejs-maxmind",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["nodejs", "maxmind", "geoip", "country", "city", "nativejs"],
+  "description": "Externs for the maxmind NPM module",
+  "releasenote": "Initial release",
+  "version": "2.11.0-alpha",
+  "contributors": ["Proletariat", "danogles", "waneck", "danbrakeley"],
+  "dependencies": {
+    "hxnodejs": ""
+  }
+}
