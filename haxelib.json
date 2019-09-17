@@ -6,8 +6,8 @@
   "tags": ["nodejs", "maxmind", "geoip", "country", "city", "nativejs"],
   "description": "Externs for the maxmind NPM module",
   "releasenote": "Initial release",
-  "version": "2.11.0-alpha",
-  "contributors": ["Proletariat", "danogles", "waneck", "danbrakeley"],
+  "version": "2.11.1",
+  "contributors": ["Proletariat", "ProletariatDev1"],
   "dependencies": {
     "hxnodejs": ""
   }
